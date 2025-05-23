@@ -1,0 +1,2 @@
+Hello, this is a secret message.
+Please encrypt this file using your tool!

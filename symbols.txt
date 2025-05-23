@@ -1,0 +1,2 @@
+!@#$%^&*()_+-=[]{}|;:',.<>/?~`"\
+This file tests all special characters.
